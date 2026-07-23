@@ -322,7 +322,7 @@
         <header>
             <h1>✨ Venha para a minha festa! ✨</h1>
             <h2>No Bodega Bar, o mais aconchegante de Copa!</h2>
-            <p class="flashing">Vai ser épico, só alegria e drinks!</p>
+            <p class="flashing">Vai ser épico, bebemoração, muita alegria!</p>
         </header>
 
         <div class="section">
@@ -331,10 +331,9 @@
                 <li><strong>CHURRASCO COMPARTILHADO</strong> - Tragam 500g de carne ou qualquer coisa de churrasco</li>
                 <img src="churrasco.jpg" alt="Churrasco" class="churrasco-img"><br>
                 
-                 <strong><center>SE LIGA NO BÔNUS (0800!) 😉</center></strong><br>
-                <li><strong>CHOPEIRA LIBERADA</strong> - Não precisa levar bebida, a não ser que você beba outra coisa!</li>
+            
                 <li><strong>BEER PONG</strong> - Preparem-se para a competição!</li>
-                <li><strong>PETISCOS</strong> - Vai ter umas gostosuras pra acompanhar</li>
+
                 <li><strong>PLAYLIST ANIMADA</strong> - Só sucessos pra agitar! Sugestões de música? Pode ser Pop, Rock, nacionais ou internacionais, ou o que desejar! Mande mensagem</li>
             </ul>
            
