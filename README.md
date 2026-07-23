@@ -321,7 +321,7 @@
     <div class="container">
         <header>
             <h1>✨ Venha para a minha festa! ✨</h1>
-            <h2>no Playground!</h2>
+            <h2>No Bodega Bar, o mais aconchegante de Copa!</h2>
             <p class="flashing">Vai ser épico, só alegria e drinks!</p>
         </header>
 
@@ -343,7 +343,7 @@
         <div class="section">
             <h3>📅 QUANDO:</h3>
             <p><span class="emoji">🗓️</span> <strong>Sábado, 01 de agosto</strong></p>
-            <p><span class="emoji">⏰</span> <strong>A partir das 13h, rolando até até o bar fechar </strong></p>
+            <p><span class="emoji">⏰</span> <strong>A partir das 13h, rolando até o bar fechar </strong></p>
         </div>
 
         <div class="section">
@@ -413,7 +413,7 @@
                     <p><strong>Vai ter Chopeira 0800! Então não precisa levar bebida, a não ser que você beba outra coisa!</strong></p> <p>Só tragam 500g de carne ou qualquer coisa de churrasco, que iremos colocar uma carninha.</p> <p>Vai ter beer pong e alguns petiscos!</p>
                 </div>
             </div>
-            <p><center>Se estiver apertado, não deixa de vir! O importante é a presença! <span class="emoji">😘</span></center></p>
+            <p><center>Se estiver apertado ($), não deixa de vir! O importante é a presença! <span class="emoji">😘</span></center></p>
         </div>
 
         <footer>
