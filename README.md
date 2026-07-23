@@ -28,7 +28,7 @@
         body {
             font-family: 'Roboto', sans-serif;
             color: white;
-            background: url('Fotoespelho.png') no-repeat center center fixed;
+            background: url('kathybebendo.jpeg') no-repeat center center fixed;
             background-size: cover;
             position: relative;
             min-height: 100vh;
@@ -329,22 +329,38 @@
             <h3>🍖 O QUE ROLA:</h3>
             <ul>
                 <li><strong>CHURRASCO COMPARTILHADO</strong> - Tragam 500g de carne ou qualquer coisa de churrasco</li>
-                <img src="churrasco.jpg" alt="Churrasco" class="churrasco-img"><br>                
+                <img src="churrasco.jpg" alt="Churrasco" class="churrasco-img"><br>
+                
+                 <strong><center>SE LIGA NO BÔNUS (0800!) 😉</center></strong><br>
+                <li><strong>CHOPEIRA LIBERADA</strong> - Não precisa levar bebida, a não ser que você beba outra coisa!</li>
+                <li><strong>BEER PONG</strong> - Preparem-se para a competição!</li>
                 <li><strong>PETISCOS</strong> - Vai ter umas gostosuras pra acompanhar</li>
                 <li><strong>PLAYLIST ANIMADA</strong> - Só sucessos pra agitar! Sugestões de música? Pode ser Pop, Rock, nacionais ou internacionais, ou o que desejar! Mande mensagem</li>
             </ul>
+           
         </div>
 
         <div class="section">
-            <h3>🍺 CHOPEIRA GRÁTIS!</h3>
-            <div class="beer-info">
-                <img src="Chopeira.png" alt="Bebidas">
-                <div>
-                    <p><strong>Vai ter Chopeira 0800! Então não precisa levar bebida, a não ser que você beba outra coisa!</strong></p>
-                    <p>Só tragam 500g de carne ou qualquer coisa de churrasco, que iremos colocar uma carninha.</p>
-                    <p><strong>Vai ter BEER PONG! - Preparem-se para a competição!</strong></p>
-                </div>
-            </div>
+            <h3>📅 QUANDO:</h3>
+            <p><span class="emoji">🗓️</span> <strong>Sábado, 01 de agosto</strong></p>
+            <p><span class="emoji">⏰</span> <strong>A partir das 13h, rolando até até o bar fechar </strong></p>
+        </div>
+
+        <div class="section">
+            <h3>📍 ONDE VAI SER? EM COPACABANA!</h3>
+            <p>R. Min. Viveiros de Castro, 102 - Copacabana, Rio de Janeiro - RJ, 22021-010</p>
+            
+            <div class="map-container">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4386.340151982645!2d-43.1774595!3d-22.964230000000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9bd5a85caa7bc5%3A0xd8e3087cc02dc158!2sBodega%20Bar%20Copacabana!5e1!3m2!1sen!2sbr!4v1783055716018!5m2!1sen!2sbr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+        </div>
+        </div>
+
+        <div class="section">
+            <h3>👗 DRESS CODE:</h3>
+            <ul>
+                <li><strong>Seja você mesmo!</strong> Venha confortável e no seu estilo</li>
+                <li><strong>Opcional:</strong> Se quiser arrasar, vai de look noturno!</li>
+            </ul>
         </div>
 
         <div class="section">
@@ -352,37 +368,17 @@
             <ul>
                 <li><strong>BALÃO SUPRESA!</strong> - lembra aqueles de festa? Vai ter que estourar! 🥳 kkkkk</li>
                 <img src="balaosurpresa4.png" alt="balaosurpresa" class="balaosupresa-img"><br>
+                
                 <div class="playlist">
                     <p><center>Venha curtir, sorrir!</center></p>
                 </div>
             </ul>
         </div>
-
-        <div class="section">
-            <h3>👗 DRESS CODE:</h3>
-            <ul>
-                <li><strong>Seja você mesmo!</strong> Venha confortável e no seu estilo</li>
-                <li><strong>Opcional:</strong> Se quiser arrasar, vai de look noturno! Vai que rola o after 😃</li>
-            </ul>
-        </div>
-
-        <div class="section">
-            <h3>📅 QUANDO:</h3>
-            <p><span class="emoji">🗓️</span> <strong>Sábado, 2 de agosto</strong></p>
-            <p><span class="emoji">⏰</span> <strong>A partir das 13h, rolando até às 21 horas</strong></p>
-        </div>
-
-        <div class="section">
-            <h3>📍 ONDE VAI SER? EM COPACABANA!</h3>
-            <p>Rua Santa Clara 431 - Copacabana, Rio de Janeiro</p>
-            <div class="map-container">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3673.254216178014!2d-43.18668892432058!3d-22.97055504024793!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9bd544d245819d%3A0x5c35a3f5a5f6b5a4!2sRua%20Santa%20Clara%2C%20431%20-%20Copacabana%2C%20Rio%20de%20Janeiro%20-%20RJ!5e0!3m2!1spt-BR!2sbr!4v1620000000000!5m2!1spt-BR!2sbr" allowfullscreen="" loading="lazy"></iframe>
-            </div>
-        </div>
+        
 
         <div class="section">
             <h3>📞 CONFIRMAÇÃO:</h3>
-            <p>Vai ter que rolar confirmação, hein! Me avisa até 25 de julho!</p>
+            <p>Vai ter que rolar confirmação, hein! Me avisa até 31 de julho!</p>
             <a href="https://wa.me/5521988457601?text=Eu%20vou%20na%20sua%20festa,%20Katharyna!" class="whatsapp-btn" target="_blank">
                 <i class="fab fa-whatsapp"></i> Confirmar Presença
             </a>
@@ -409,9 +405,19 @@
             </div>
         </div>
 
+        <div class="section">
+            <h3>✨ OBS:</h3>
+            <div class="beer-info">
+                <img src="Chopeira.png" alt="Bebidas">
+                <div>
+                    <p><strong>Vai ter Chopeira 0800! Então não precisa levar bebida, a não ser que você beba outra coisa!</strong></p> <p>Só tragam 500g de carne ou qualquer coisa de churrasco, que iremos colocar uma carninha.</p> <p>Vai ter beer pong e alguns petiscos!</p>
+                </div>
+            </div>
+            <p><center>Se estiver apertado, não deixa de vir! O importante é a presença! <span class="emoji">😘</span></center></p>
+        </div>
+
         <footer>
             <p class="flashing">💃 ÚLTIMA CHAMADA: Vamos pular!</p>
-            <p><strong>Se estiver apertado, não deixa de vir! O importante é a sua presença! 😘</strong></p>
             <br>
             <br>
             <br>
@@ -419,10 +425,6 @@
             <p class="text-center">Developed by <a href="https://www.instagram.com/andherssonkaethanno/" target="_blank">Andy</a></p>
         </footer>
     </div>
-
-
-
-     
 
     <script>
         document.addEventListener('DOMContentLoaded', function() {
