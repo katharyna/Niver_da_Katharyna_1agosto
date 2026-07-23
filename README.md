@@ -322,7 +322,7 @@
         <header>
             <h1>✨ Venha para a minha festa! ✨</h1>
             <h2>No Bodega Bar, o mais aconchegante de Copa!</h2>
-            <p class="flashing">Vai ser épico, bebemoração, muita alegria!</p>
+            <p class="flashing"> Muita bebemoração, muita alegria, Vai ser épico!</p>
         </header>
 
         <div class="section">
